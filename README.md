@@ -5,7 +5,7 @@ Files:
 Text_Summarization_With_Transformers.ipynb: Colab Notebook of Transformers for text summarization
 Text_Summarization_With_Transformers.pdf: Report of experimentation and alternative methods for text summarization
 
-Requirements : Check requirements.txt file 
+Requirements : Check Requirements.txt file 
 
 Directories:
 
