@@ -4,6 +4,7 @@ NLP TEXT SUMMARIZATION WITH DEEP LEARNING, KYRIAKOPOULOU EVANGELIA, DMCI
 Files: 
 Text_Summarization_With_Transformers.ipynb: Colab Notebook of Transformers for text summarization
 Text_Summarization_With_Transformers.pdf: Report of experimentation and alternative methods for text summarization
+
 Requirements : Check requirements.txt file 
 
 Directories:
