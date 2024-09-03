@@ -16,6 +16,7 @@ The codes from the Springer Book/Chapter13 are deprecated, so we used Transforme
 For our successful training (Transformer) we uploaded the model on the Hugging Face Model Hub.
 
 You can find it here: 
+
 Link: https://huggingface.co/Evangeliaa/t5-small-finetuned-xsum (1 epoch fine-tuning)
 
 Link: https://huggingface.co/Evangeliaa/t5-small-finetuned-xsum_3epoch_batch8 (3 epoch and hyper-parameter tuning)
