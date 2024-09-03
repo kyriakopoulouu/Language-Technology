@@ -10,7 +10,8 @@ Requirements : Check requirements.txt file
 Directories:
 
 - Chapter13: Repository from "Deep Learning for NLP and Speech Recognition" github, with processed files (Deprecated)
-  Link: https://github.com/SpringerNLP/Chapter13?fbclid=IwAR0lj12MtnQLtWUjghpSKf852C0jUkiz3QMYrUU3U33NyNdsdg2UruKa48A
+- 
+ Link: https://github.com/SpringerNLP/Chapter13?fbclid=IwAR0lj12MtnQLtWUjghpSKf852C0jUkiz3QMYrUU3U33NyNdsdg2UruKa48A
 
 The codes from the Springer Book/Chapter13 are deprecated, so we used Transformers method for Text Summarization.
 For our successful training (Transformer) we uploaded the model on the Hugging Face Model Hub.
