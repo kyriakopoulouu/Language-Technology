@@ -1,5 +1,6 @@
 # Language-Technology
-NLP TEXT SUMMARIZATION WITH DEEP LEARNING, KYRIAKOPOULOU EVANGELIA, DMCI
+This project was implemented as part of the postgraduate studies in Computational Intelligence and Digital Media.
+NLP TEXT SUMMARIZATION WITH DEEP LEARNING
 
 Files: 
 Text_Summarization_With_Transformers.ipynb: Colab Notebook of Transformers for text summarization
